@@ -8,7 +8,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Broomfields&show_icons=true&theme=transparent&hide_border=true&title_color=d2b591&text_color=26506f&icon_color=fec500&hide_rank=true&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/Broomfields">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Broomfields&langs_count=8&layout=compact&theme=transparent&hide_border=true&title_color=d2b591&text_color=26506f&icon_color=fec500&custom_title=Public Repo Language Platter (Top 8)" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Broomfields&langs_count=8&layout=compact&theme=transparent&hide_border=true&title_color=d2b591&text_color=26506f&icon_color=fec500&custom_title=Repo-Languages-(Top-8)" />
 </a>
   
   ---
